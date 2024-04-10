@@ -64,9 +64,9 @@
 ## Conclusion
 #### Through a rigorous process of data cleaning, statistical analysis, and visualization using tools like Microsoft Excel, SQL Server Management Studio (SSMS), and Tableau, I gained valuable insights into the Israeli-Palestinian conflict. The following key findings and conclusions emerged from this analysis:
 #### Understanding the complexities and multifaceted nature of the Israeli-Palestinian conflict is crucial. This analysis underscores the significance of:
-#### Informed Decision-Making:- By providing data-driven insights, this analysis equips policymakers, researchers, and activists with the information needed to make informed decisions and formulate effective strategies for conflict resolution and humanitarian assistance.
+####  _Informed Decision-Making_ :- By providing data-driven insights, this analysis equips policymakers, researchers, and activists with the information needed to make informed decisions and formulate effective strategies for conflict resolution and humanitarian assistance.
   
-#### Advocacy for Positive Change:- Understanding the conflict's complexities is the first step toward advocating for positive change. It is crucial to promote dialogue, peacebuilding efforts, and initiatives that address the root causes of the conflict while prioritizing the well-being and rights of affected populations.
+####  _Advocacy for Positive Change_ :- Understanding the conflict's complexities is the first step toward advocating for positive change. It is crucial to promote dialogue, peacebuilding efforts, and initiatives that address the root causes of the conflict while prioritizing the well-being and rights of affected populations.
 
 #### This visual journey through data analysis offers a compelling narrative of the Israeli-Palestinian conflict, highlighting its human impact, geographical dynamics, and the imperative for concerted efforts toward peace, reconciliation, and positive change.
 
