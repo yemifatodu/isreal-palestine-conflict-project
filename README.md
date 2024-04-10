@@ -1,6 +1,6 @@
 #  "Exploring the Israeli-Palestinian Conflict (2000-2023): A Visual Journey" 
 
-![image](https://github.com/yemifatodu/isreal-palestine-conflict-project/edit/main/README.md)
+![shutterstock_](https://github.com/yemifatodu/isreal-palestine-conflict-project/assets/147722919/5e24b3bf-0050-4741-940f-f46e89f7f22b)
 
 ## Introduction
 The "Exploring the Israeli-Palestinian Conflict from 2000 to Oct. 2023: A Visual Journey" project endeavors to offer a comprehensive insight into one of the most complex and enduring conflicts of our time. The objective is to provide stakeholders such as policymakers, researchers, and activists with actionable insights derived from data visualization, enabling them to make informed decisions and advocate for measures that address the multifaceted dimensions and human toll of the conflict.
@@ -18,7 +18,7 @@ This is my first data analyst project and I chose this project because it's curr
  The dataset used for this analysis was sourced from Kaggle, a reputable platform for datasets across various domains. The dataset contains comprehensive data spanning the years 2000 to 2023, capturing various aspects of the Israeli-Palestinian conflict, including incidents, casualties, geographical information, and more.
 
 ## My role as a Data Analyst 
-As the Data Analyst for this project, at first I had to create an end-to-end file transition to Excel file type and my responsibilities included:
+As the Data Analyst for this project, at first, I had to create an end-to-end file transition to Excel file type and my responsibilities included:
 
  1. Conducting thorough data cleaning to ensure data accuracy and consistency. This involved removing outliers, handling missing values, and standardizing data formats.
 2. Performing in-depth statistical analysis to uncover patterns, trends, and correlations within the dataset.
@@ -35,28 +35,33 @@ I used functions like IFERROR, ISBLANK, and VLOOKUP to identify and handle missi
  SSMS for advanced data manipulation and analysis.  I used SQL commands to transform and standardize data formats across columns, ensuring uniformity for analysis and Tableau for visual exploration and pattern recognition, I conducted a thorough data cleaning and statistical analysis to uncover patterns, trends, and meaningful insights related to the Israeli-Palestinian conflict dataset.
 
 ## "Sheet 2" - Annual Death Toll
-![image](https://github.com/yemifatodu/isreal-palestine-conflict-project/edit/main/README.md)
+![GITHUB C L  2 pngCOPY](https://github.com/yemifatodu/isreal-palestine-conflict-project/assets/147722919/d0af87a9-2476-44e2-9c33-ee87af80800f)
+
 This sheet provides a visual representation of the annual death toll attributed to the Israeli-Palestinian conflict, showing the number of casualties per year. This trend analysis revealed significant fluctuations in conflict-related incidents, casualties, and displacement over the years 2000 to 2023. There were notable spikes during periods of heightened tensions and significant events
 
 ## "Sheet 1" - Impact Across Life Stages
-![image](https://github.com/yemifatodu/isreal-palestine-conflict-project/edit/main/README.md)
+![GITHUB C L  1 pngCOPY](https://github.com/yemifatodu/isreal-palestine-conflict-project/assets/147722919/d8879ee1-a2e9-44df-a201-d011aba1aada)
+
 This sheet delves into the impact of the conflict across different life stages, such as childhood, adolescence, adulthood, and elderly populations. The impact assessment across different life stages provided a poignant perspective on how the conflict affects individuals at various stages of life, from children to the elderly. It underscored the diverse and long-lasting consequences of conflict on communities and individuals.
  
 
 ## Region-Specific Graphs
-![image](https://github.com/yemifatodu/isreal-palestine-conflict-project/edit/main/README.md)
+![GITHUB C  L 2 2 MAP pngCOPY](https://github.com/yemifatodu/isreal-palestine-conflict-project/assets/147722919/dd7e2b37-1578-4093-90bc-8e19d2cc5cd5)
+
 
 This graph highlights the geographical distribution of conflict hotspots and where the conflict is most prevalent. This spatial analysis helped identify regions requiring targeted interventions and humanitarian aid.
 
 
 
 ##  Pie Chart - Gender Dimension of Loss
-![image](https://github.com/yemifatodu/isreal-palestine-conflict-project/edit/main/README.md)
+![GITHUB PIE CHART C L pngCOPY](https://github.com/yemifatodu/isreal-palestine-conflict-project/assets/147722919/2b9b3d03-ee4f-4e5e-bcd3-2c981aae95d0)
+
 The pie chart illustrates the gender dimension of loss in the conflict, showing the total number of casualties or impacts experienced by different genders. It provides a visual representation of gender disparities in conflict-related consequences. This insight underscores the importance of addressing gender-based vulnerabilities and ensuring equitable support for all affected populations
 
 
 ##  Breakdown of Ammunition Types
-![image](https://github.com/yemifatodu/isreal-palestine-conflict-project/edit/main/README.md)
+![GITHUB C L  3 pngCOPY](https://github.com/yemifatodu/isreal-palestine-conflict-project/assets/147722919/2977e6d8-24bb-4d58-a22d-3450ff167969)
+
  This section provides a breakdown of the types of ammunition used in the conflict and their respective proportions in conflict-related incidents. The breakdown of ammunition types provided a deeper understanding of the conflict dynamics, including the weaponry and tactics employed. This information is crucial for assessing the conflict's intensity and implications for civilian populations.
 
 
@@ -65,7 +70,8 @@ The pie chart illustrates the gender dimension of loss in the conflict, showing 
 ## Conclusion
 
 Through a rigorous process of data cleaning, statistical analysis, and visualization using tools like Microsoft Excel, SQL Server Management Studio (SSMS), and Tableau, I gained valuable insights into the Israeli-Palestinian conflict. The following key findings and conclusions emerged from this analysis:
- Understanding the complexities and multifaceted nature of the Israeli-Palestinian conflict is crucial. This analysis underscores the significance of:
+ Understanding the complexities and multifaceted nature of the Israeli-Palestinian conflict is crucial.
+This analysis underscores the significance of:
  
   _Informed Decision-Making_ :- By providing data-driven insights, this analysis equips policymakers, researchers, and activists with the information needed to make informed decisions and formulate effective strategies for conflict resolution and humanitarian assistance.
   
@@ -74,9 +80,11 @@ Through a rigorous process of data cleaning, statistical analysis, and visualiza
  This visual journey through data analysis offers a compelling narrative of the Israeli-Palestinian conflict, highlighting its human impact, geographical dynamics, and the imperative for concerted efforts toward peace, reconciliation, and positive change.
 
 The main dashboard can be viewed on tableau public I'm leaving the link below and the link to the cleaned dataset.
-![image](https://github.com/yemifatodu/isreal-palestine-conflict-project/edit/main/README.md)
+![GITHUB MAIN DB pngCOPY](https://github.com/yemifatodu/isreal-palestine-conflict-project/assets/147722919/b35555b6-bbae-496e-ba7d-fae2cef8b6b7)
 
-[dataset](https://github.com/yemifatodu/isreal-palestine-conflict-project/edit/main/README.md)
+[dashboard-link](https://tabsoft.co/3QUmmCz)
+
+Dataset [DOWNLOAD-HERE](https://github.com/yemifatodu/isreal-palestine-conflict-project/edit/main/README.md)
 
 
 
